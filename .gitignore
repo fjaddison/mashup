@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#files for reference
+/src/components/DinoNouns.jsx
+/src/components/HeadViewer.jsx
+/src/components/MashupGenerator.jsx
+/src/components/NounHeadViewer.jsx
