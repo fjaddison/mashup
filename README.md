@@ -1,3 +1,9 @@
+## Nouns Mashup Generator
+
+To learn more about blockchain development and to dip my toes back into web development, I've decided to mae a project utilizing [Nouns](nouns.wtf). Nouns are a CC0 NFT project built of composable SVG that is rendered entirely on the blockchain, free from external dependencies. Nouns are also open source, meaning anyone can build on top of the existing IP and smart contract infrastructure. 
+
+To make the project a little more fun, I want to incorporate another on-chain NFT project in order to make a mashup of composable parts read entirely from the blockchain. This is not an NFT project, it's solely a front-end that makes use of smart contract function calls to render SVG. Users can endlessly compose their own Nouns and save their outputs. It's a very simple application.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
